@@ -5,6 +5,7 @@ The VR game that I have designed is a Oculuse Quest 2 simulator where the user c
 The game is designed in 3D VR and thus the user can look around and move with the motion of the head and hands. An additional part special about this development is that I used unity on Ubuntu 20 for the development which came with its own unique challenges that I had to resolve.
 
 The final project apk is the file finalBallThrow.apk
+
 Link to a video of the gameplay: https://youtu.be/ewZTz43t_Rg
 
 Links used to get some references:
